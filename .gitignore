@@ -1,0 +1,16 @@
+# Ambientes Virtuais
+.venv/
+venv/
+ENV/
+
+# Configurações de IDEs
+.idea/
+.vscode/
+
+# Ficheiros temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dados (opcional, dependendo do tamanho)
+# melb_data.csv
